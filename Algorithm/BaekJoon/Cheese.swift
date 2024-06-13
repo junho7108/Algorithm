@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct BaekJoonCheese {
+struct BaekJoonCheese: Algorithm {
     
     func solution() {
         let input = readLine()!

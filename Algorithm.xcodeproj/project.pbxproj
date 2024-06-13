@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		123167522C145511007B9169 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123167512C145511007B9169 /* main.swift */; };
 		129687732C19745F001DBEE0 /* Cheese.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687722C19745F001DBEE0 /* Cheese.swift */; };
+		129687752C1ACCD3001DBEE0 /* Algorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687742C1ACCD3001DBEE0 /* Algorithm.swift */; };
+		129687782C1ACD00001DBEE0 /* TargetNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687772C1ACD00001DBEE0 /* TargetNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +29,8 @@
 		1231674E2C145511007B9169 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		123167512C145511007B9169 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		129687722C19745F001DBEE0 /* Cheese.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cheese.swift; sourceTree = "<group>"; };
+		129687742C1ACCD3001DBEE0 /* Algorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Algorithm.swift; sourceTree = "<group>"; };
+		129687772C1ACD00001DBEE0 /* TargetNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,8 +63,10 @@
 		123167502C145511007B9169 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				129687762C1ACCF6001DBEE0 /* Programmers */,
 				129687712C197455001DBEE0 /* BaekJoon */,
 				123167512C145511007B9169 /* main.swift */,
+				129687742C1ACCD3001DBEE0 /* Algorithm.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -71,6 +77,14 @@
 				129687722C19745F001DBEE0 /* Cheese.swift */,
 			);
 			path = BaekJoon;
+			sourceTree = "<group>";
+		};
+		129687762C1ACCF6001DBEE0 /* Programmers */ = {
+			isa = PBXGroup;
+			children = (
+				129687772C1ACD00001DBEE0 /* TargetNumber.swift */,
+			);
+			path = Programmers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -132,6 +146,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				129687732C19745F001DBEE0 /* Cheese.swift in Sources */,
+				129687782C1ACD00001DBEE0 /* TargetNumber.swift in Sources */,
+				129687752C1ACCD3001DBEE0 /* Algorithm.swift in Sources */,
 				123167522C145511007B9169 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
