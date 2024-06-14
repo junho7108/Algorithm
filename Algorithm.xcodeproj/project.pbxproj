@@ -12,6 +12,8 @@
 		129687752C1ACCD3001DBEE0 /* Algorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687742C1ACCD3001DBEE0 /* Algorithm.swift */; };
 		129687782C1ACD00001DBEE0 /* TargetNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687772C1ACD00001DBEE0 /* TargetNumber.swift */; };
 		1296877A2C1AD54B001DBEE0 /* Virus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687792C1AD54B001DBEE0 /* Virus.swift */; };
+		1296877C2C1AF2B1001DBEE0 /* OrganicCabbage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1296877B2C1AF2B1001DBEE0 /* OrganicCabbage.swift */; };
+		1296877F2C1C18FC001DBEE0 /* MazeExploration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1296877E2C1C18FC001DBEE0 /* MazeExploration.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +35,8 @@
 		129687742C1ACCD3001DBEE0 /* Algorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Algorithm.swift; sourceTree = "<group>"; };
 		129687772C1ACD00001DBEE0 /* TargetNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetNumber.swift; sourceTree = "<group>"; };
 		129687792C1AD54B001DBEE0 /* Virus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Virus.swift; sourceTree = "<group>"; };
+		1296877B2C1AF2B1001DBEE0 /* OrganicCabbage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrganicCabbage.swift; sourceTree = "<group>"; };
+		1296877E2C1C18FC001DBEE0 /* MazeExploration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MazeExploration.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +82,8 @@
 			children = (
 				129687722C19745F001DBEE0 /* Cheese.swift */,
 				129687792C1AD54B001DBEE0 /* Virus.swift */,
+				1296877B2C1AF2B1001DBEE0 /* OrganicCabbage.swift */,
+				1296877E2C1C18FC001DBEE0 /* MazeExploration.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -151,6 +157,8 @@
 				129687732C19745F001DBEE0 /* Cheese.swift in Sources */,
 				129687782C1ACD00001DBEE0 /* TargetNumber.swift in Sources */,
 				129687752C1ACCD3001DBEE0 /* Algorithm.swift in Sources */,
+				1296877C2C1AF2B1001DBEE0 /* OrganicCabbage.swift in Sources */,
+				1296877F2C1C18FC001DBEE0 /* MazeExploration.swift in Sources */,
 				1296877A2C1AD54B001DBEE0 /* Virus.swift in Sources */,
 				123167522C145511007B9169 /* main.swift in Sources */,
 			);
