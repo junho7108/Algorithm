@@ -16,6 +16,7 @@
 		1296877F2C1C18FC001DBEE0 /* MazeExploration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1296877E2C1C18FC001DBEE0 /* MazeExploration.swift */; };
 		129687812C1C3138001DBEE0 /* 여행경로.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687802C1C3138001DBEE0 /* 여행경로.swift */; };
 		129687832C1DCD8D001DBEE0 /* 피로도.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687822C1DCD8D001DBEE0 /* 피로도.swift */; };
+		129687852C1EAB9C001DBEE0 /* 단어 변환.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687842C1EAB9C001DBEE0 /* 단어 변환.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		1296877E2C1C18FC001DBEE0 /* MazeExploration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MazeExploration.swift; sourceTree = "<group>"; };
 		129687802C1C3138001DBEE0 /* 여행경로.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "여행경로.swift"; sourceTree = "<group>"; };
 		129687822C1DCD8D001DBEE0 /* 피로도.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "피로도.swift"; sourceTree = "<group>"; };
+		129687842C1EAB9C001DBEE0 /* 단어 변환.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "단어 변환.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				129687772C1ACD00001DBEE0 /* TargetNumber.swift */,
 				129687802C1C3138001DBEE0 /* 여행경로.swift */,
 				129687822C1DCD8D001DBEE0 /* 피로도.swift */,
+				129687842C1EAB9C001DBEE0 /* 단어 변환.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 				129687832C1DCD8D001DBEE0 /* 피로도.swift in Sources */,
 				129687782C1ACD00001DBEE0 /* TargetNumber.swift in Sources */,
 				129687752C1ACCD3001DBEE0 /* Algorithm.swift in Sources */,
+				129687852C1EAB9C001DBEE0 /* 단어 변환.swift in Sources */,
 				1296877C2C1AF2B1001DBEE0 /* OrganicCabbage.swift in Sources */,
 				1296877F2C1C18FC001DBEE0 /* MazeExploration.swift in Sources */,
 				1296877A2C1AD54B001DBEE0 /* Virus.swift in Sources */,
