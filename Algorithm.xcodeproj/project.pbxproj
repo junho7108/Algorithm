@@ -18,6 +18,7 @@
 		129687832C1DCD8D001DBEE0 /* 피로도.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687822C1DCD8D001DBEE0 /* 피로도.swift */; };
 		129687852C1EAB9C001DBEE0 /* 단어 변환.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687842C1EAB9C001DBEE0 /* 단어 변환.swift */; };
 		129687872C1EB1F4001DBEE0 /* 네트워크.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687862C1EB1F4001DBEE0 /* 네트워크.swift */; };
+		129687892C1EC633001DBEE0 /* 전력망을둘로나누기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687882C1EC633001DBEE0 /* 전력망을둘로나누기.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		129687822C1DCD8D001DBEE0 /* 피로도.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "피로도.swift"; sourceTree = "<group>"; };
 		129687842C1EAB9C001DBEE0 /* 단어 변환.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "단어 변환.swift"; sourceTree = "<group>"; };
 		129687862C1EB1F4001DBEE0 /* 네트워크.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "네트워크.swift"; sourceTree = "<group>"; };
+		129687882C1EC633001DBEE0 /* 전력망을둘로나누기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "전력망을둘로나누기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				129687822C1DCD8D001DBEE0 /* 피로도.swift */,
 				129687842C1EAB9C001DBEE0 /* 단어 변환.swift */,
 				129687862C1EB1F4001DBEE0 /* 네트워크.swift */,
+				129687882C1EC633001DBEE0 /* 전력망을둘로나누기.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				129687752C1ACCD3001DBEE0 /* Algorithm.swift in Sources */,
 				129687852C1EAB9C001DBEE0 /* 단어 변환.swift in Sources */,
 				1296877C2C1AF2B1001DBEE0 /* OrganicCabbage.swift in Sources */,
+				129687892C1EC633001DBEE0 /* 전력망을둘로나누기.swift in Sources */,
 				1296877F2C1C18FC001DBEE0 /* MazeExploration.swift in Sources */,
 				129687872C1EB1F4001DBEE0 /* 네트워크.swift in Sources */,
 				1296877A2C1AD54B001DBEE0 /* Virus.swift in Sources */,
