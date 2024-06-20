@@ -20,6 +20,7 @@
 		129687872C1EB1F4001DBEE0 /* 네트워크.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687862C1EB1F4001DBEE0 /* 네트워크.swift */; };
 		129687892C1EC633001DBEE0 /* 전력망을둘로나누기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129687882C1EC633001DBEE0 /* 전력망을둘로나누기.swift */; };
 		1296878B2C2143C1001DBEE0 /* 숨바꼭질.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1296878A2C2143C1001DBEE0 /* 숨바꼭질.swift */; };
+		1296878D2C22E29B001DBEE0 /* N으로표현.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1296878C2C22E29B001DBEE0 /* N으로표현.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		129687862C1EB1F4001DBEE0 /* 네트워크.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "네트워크.swift"; sourceTree = "<group>"; };
 		129687882C1EC633001DBEE0 /* 전력망을둘로나누기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "전력망을둘로나누기.swift"; sourceTree = "<group>"; };
 		1296878A2C2143C1001DBEE0 /* 숨바꼭질.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "숨바꼭질.swift"; sourceTree = "<group>"; };
+		1296878C2C22E29B001DBEE0 /* N으로표현.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "N으로표현.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				129687842C1EAB9C001DBEE0 /* 단어 변환.swift */,
 				129687862C1EB1F4001DBEE0 /* 네트워크.swift */,
 				129687882C1EC633001DBEE0 /* 전력망을둘로나누기.swift */,
+				1296878C2C22E29B001DBEE0 /* N으로표현.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				129687752C1ACCD3001DBEE0 /* Algorithm.swift in Sources */,
 				129687852C1EAB9C001DBEE0 /* 단어 변환.swift in Sources */,
 				1296877C2C1AF2B1001DBEE0 /* 유기농배추.swift in Sources */,
+				1296878D2C22E29B001DBEE0 /* N으로표현.swift in Sources */,
 				129687892C1EC633001DBEE0 /* 전력망을둘로나누기.swift in Sources */,
 				1296877F2C1C18FC001DBEE0 /* MazeExploration.swift in Sources */,
 				129687872C1EB1F4001DBEE0 /* 네트워크.swift in Sources */,
