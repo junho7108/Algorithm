@@ -1,8 +1,7 @@
-//
 //  OrganicCabbage.swift
 //  Algorithm
 //
-//  Created by Junho Yoon on 6/13/24.
+//  Created by Junho Yoon on 6/21/24.
 //
 
 import Foundation
@@ -17,7 +16,6 @@ class 유기농배추: Algorithm {
     
     func solution() {
         let input = readLine()!.split(separator: " ").map { Int($0)! }
-        
         let m = input[0]
         let n = input[1]
         let k = input[2]
