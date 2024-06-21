@@ -17,6 +17,7 @@ class 유기농배추: Algorithm {
     
     func solution() {
         let input = readLine()!.split(separator: " ").map { Int($0)! }
+        
         let m = input[0]
         let n = input[1]
         let k = input[2]
