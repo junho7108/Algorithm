@@ -12,14 +12,14 @@ class BaekJoon16953: Algorithm {
     func solution() {
         
         let input = readLine()!.split(separator: " ").map { Int($0)! }
-        var result: Int = -1
+        var result: Int = 9999
      
         let a = input[0]
         let b = input[1]
       
         func dfs(start: Int, count: Int = 0) {
             if start == b {
-                result = count
+                result = min(count, result)
                 return
             }
          
@@ -37,6 +37,7 @@ class BaekJoon16953: Algorithm {
         
         dfs(start: a, count: 1)
         
+        result = result == 9999 ? -1 : result
         
         print(result)
     }
